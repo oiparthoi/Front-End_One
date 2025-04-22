@@ -5,3 +5,53 @@
 .nav-link{
     color: white;
 }
+
+.headerTwo h6,h3,p{
+    color: white; 
+}
+
+.headerTwo a{
+    color: black;
+    background-color: white;
+    padding: 7px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.headerTwo a:hover{
+    color: white;
+    background-color: #74C69D;
+    padding: 7px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    border: white 1px solid;
+}
+
+.secondPart{
+    color: black;
+}
+
+.secondPart h6{
+    color: #74C69D;
+}
+
+.secondPart h2{
+    color: black;
+}
+
+.btnSide{
+    color: white;
+    background-color: black;
+    padding: 7px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.btnSide:hover{
+    color: black;
+    background-color: white;
+    padding: 7px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    border: black 1px solid;
+}
